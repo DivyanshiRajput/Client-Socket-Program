@@ -4,7 +4,7 @@ SOCKET QUIZ using PYTHON3
 
 	Instructions:
     1. Download the files server.py, client.py ans questions_list.py. 
-    2. Run this command on your terminal after going to the directory in which python files are stored python3 server.py. 
+    2. Run this command on your terminal after going to the directory in which python files are stored: python3 server.py. 
     3. Open 3 more terminals and type python3 client.py and continue.
 
 
